@@ -34,3 +34,31 @@
 .numberAnimation img:nth-child(7){
     z-index: -6;
 }
+
+
+
+.bottomright section{
+    display: flex !important;
+    justify-content: center;
+}
+.bottomright section aside{
+    display: block;
+    width: 100%;
+}
+
+@media only screen and (max-width: 700px){
+    .numberAnimation{
+        display: flex !important;
+        justify-content: center;
+    }
+    .numberAnimation aside {
+        width: clamp(300px,50%,390px);
+        display: flex; /* Make aside a flex container */
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+    }
+    .numberAnimation img {
+        width: 100% !important; /* Adjust as needed */
+        height: auto; /* Adjust as needed */
+    }
+}

@@ -215,14 +215,14 @@
         height: 690px;
     }
     .bottomright img{
-        width: 80% !important;
-        margin: 0 10%;
+        width: clamp(100px,80%,270px) !important;
+        margin: auto;
     }
-    .bottomright aside img{
+    /* .bottomright aside img{
         right: auto !important;
         left: auto !important;
 
-    }
+    } */
     .bottomright:hover img:nth-child(2){
         transform: translate(-2vw, 1vh);
     }

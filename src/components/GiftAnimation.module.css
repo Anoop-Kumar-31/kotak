@@ -70,32 +70,32 @@
 }
 
 .giftAnimation img:nth-child(2) {
-    width: 8vw; /* Use relative units */
-    transform: translate(-8vw, -6vw); /* Adjust for smaller screens */
+    width: 8vw;
+    transform: translate(-8vw, -6vw);
     z-index: 1;
 }
 
 .giftAnimation img:nth-child(3) {
-    width: 13vw; /* Use relative units */
-    transform: translate(0, -6vw); /* Adjust for smaller screens */
+    width: 13vw;
+    transform: translate(0, -6vw);
     z-index: 2;
 }
 
 .giftAnimation img:nth-child(4) {
-    width: 15vw; /* Use relative units */
-    transform: translate(8vw, -4.5vw); /* Adjust for smaller screens */
+    width: 15vw;
+    transform: translate(8vw, -4.5vw);
     z-index: 1;
 }
 
 .giftAnimation img:nth-child(5) {
-    width: 18vw; /* Use relative units */
-    transform: translate(-6.5vw, 1.8vw); /* Adjust for smaller screens */
+    width: 18vw;
+    transform: translate(-6.5vw, 1.8vw);
     z-index: 3;
 }
 
 .giftAnimation img:nth-child(6) {
-    width: 8vw; /* Use relative units */
-    transform: translate(-4.8vw, 8vw); /* Adjust for smaller screens */
+    width: 8vw;
+    transform: translate(-4.8vw, 8vw);
     z-index: 2;
 }
 
