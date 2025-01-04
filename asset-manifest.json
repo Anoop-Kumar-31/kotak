@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kotak/static/css/main.e85a16f7.css",
+    "main.js": "/kotak/static/js/main.6176b0d0.js",
+    "static/js/488.8de863fb.chunk.js": "/kotak/static/js/488.8de863fb.chunk.js",
+    "static/media/card.png": "/kotak/static/media/card.280940d28954ce55b83b.png",
+    "static/media/offer.png": "/kotak/static/media/offer.11bae212f829e9897a2e.png",
+    "static/media/pizza.png": "/kotak/static/media/pizza.b47fc3740eeb851f9f9d.png",
+    "static/media/popcorn.png": "/kotak/static/media/popcorn.4eb49e764e9ee52f5bd5.png",
+    "static/media/ramen.png": "/kotak/static/media/ramen.7701ec59d43cfc5dc5a0.png",
+    "static/media/1.png": "/kotak/static/media/1.99e01e7ccba86ae5cdb3.png",
+    "static/media/goldengift.png": "/kotak/static/media/goldengift.c8047b7717da31ca728d.png",
+    "static/media/redgift.png": "/kotak/static/media/redgift.9aa2646fac54994b64c5.png",
+    "static/media/ticket.png": "/kotak/static/media/ticket.78bb9c8e668c3150df62.png",
+    "static/media/Logo.png": "/kotak/static/media/Logo.0535ec1a3b2f51732efc.png",
+    "static/media/phone.png": "/kotak/static/media/phone.3ae125461f61aa196df2.png",
+    "static/media/treat.png": "/kotak/static/media/treat.a9bff2e7bd800df791af.png",
+    "static/media/logo.svg": "/kotak/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kotak/index.html",
+    "main.e85a16f7.css.map": "/kotak/static/css/main.e85a16f7.css.map",
+    "main.6176b0d0.js.map": "/kotak/static/js/main.6176b0d0.js.map",
+    "488.8de863fb.chunk.js.map": "/kotak/static/js/488.8de863fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85a16f7.css",
+    "static/js/main.6176b0d0.js"
+  ]
+}
