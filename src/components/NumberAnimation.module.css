@@ -1,0 +1,36 @@
+.numberAnimation {
+    position: relative; /* Ensure the parent is positioned */
+    width: 100%; /* Adjust as needed */
+    height: 100%; /* Adjust as needed */
+}
+
+.numberAnimation > aside {
+    position: relative; /* Ensure the aside is positioned */
+    height: 100%; /* Adjust as needed */
+}
+
+.numberAnimation > aside > img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50%; /* Adjust as needed */
+    height: auto; /* Adjust as needed */
+}
+.numberAnimation img:nth-child(2){
+    z-index: -1;
+}
+.numberAnimation img:nth-child(3){
+    z-index: -2;
+}
+.numberAnimation img:nth-child(4){
+    z-index: -3;
+}
+.numberAnimation img:nth-child(5){
+    z-index: -4;
+}
+.numberAnimation img:nth-child(6){
+    z-index: -5;
+}
+.numberAnimation img:nth-child(7){
+    z-index: -6;
+}
