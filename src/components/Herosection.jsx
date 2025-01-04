@@ -28,7 +28,8 @@ const Herosection = () => {
                 <div className={css.herotext}>
                     <h1 className={css.h1}>Earn up to 7%* interest p.a. with ActivMoney</h1>
                     <div className={css.divLine}>&nbsp;</div>
-                    <p className={css.p}>Enjoy FD-like interest in your Savings Account with the ActivMoney facility. Access your money anytime with no penalty.</p>
+                    <p className={css.p}>Enjoy FD-like interest in your Savings Account with the ActivMoney facility. Access your money anytime with no penalty.<br/><p className={css.dis}>* For deposits above 7 days. T&C apply</p></p>
+                    
                 </div>
                 <NumberAnimation/>
             </div>

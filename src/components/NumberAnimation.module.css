@@ -7,6 +7,7 @@
 .numberAnimation > aside {
     position: relative; /* Ensure the aside is positioned */
     height: 100%; /* Adjust as needed */
+    padding: 10px 0;
 }
 
 .numberAnimation > aside > img {
@@ -52,7 +53,7 @@
         justify-content: center;
     }
     .numberAnimation aside {
-        width: clamp(300px,50%,390px);
+        width: clamp(100px,50%,390px);
         display: flex; /* Make aside a flex container */
         justify-content: center; /* Center horizontally */
         align-items: center; /* Center vertically */
